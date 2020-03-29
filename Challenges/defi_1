@@ -20,7 +20,7 @@ console.log(Somme(7,15))
 
 function TriangleArea(B,H){
 
-  return 
+  return (b*h)/2
 }
 console.log(TriangleArea(10,12))
 
@@ -28,7 +28,7 @@ console.log(TriangleArea(10,12))
 
   function RectanglePerimetre(W,H){
 
-  return 
+  return w*2+h*2
 }
 console.log(RectanglePerimetre(6,6))
  
@@ -36,7 +36,7 @@ console.log(RectanglePerimetre(6,6))
 // Write a function that takes a number as argument and returns it square.
 function SquareNumber(n){
 
-  return 
+  return n*n
 }
 console.log(SquareNumber(9))
 
@@ -45,7 +45,7 @@ console.log(SquareNumber(9))
 function Rest(N ,n ){
 
 
-  return 
+  return N % n
 }
 
 console.log(Rest(450,55))
@@ -54,14 +54,14 @@ console.log(Rest(450,55))
 
 function HourToSecond(H){
 
-  return 
+  return h*3600
 }
 console.log(HourToSecond(24))
 
 // Write a function that takes two arguments (hours, minutes) and converts them into seconds.
 function ConvertToSecond(H , M){
 
-  return 
+  return H*3600 + M*60
 }
 console.log(ConvertToSecond(24,15))
 
@@ -69,7 +69,7 @@ console.log(ConvertToSecond(24,15))
 
 function Greeting(name){
 
-  return 
+  return "hello " + name + "!"
 }
 console.log(Greeting("Joseph"))
 
@@ -79,7 +79,7 @@ console.log(Greeting("Joseph"))
 
 function LengthOfString(str){
 
-  return 
+  return str.length
 }
 console.log(LengthOfString("hello simplonien"))
 
@@ -97,7 +97,7 @@ Create a function that takes two strings as arguments, firstName and lastName, a
 */
 function Name(firstName , lastName){
 
-  return 
+  return firstName + " " + lastName
 }
 console.log(Name("João","Félix"))
 
@@ -105,7 +105,7 @@ console.log(Name("João","Félix"))
 
 function StringToNumber(str){
 
-  return 
+  return str*1
 }
 console.log(StringToNumber("200"))
 
@@ -113,6 +113,6 @@ console.log(StringToNumber("200"))
 
 function NumberToString(number){
 
-  return 
+  return number + ""
 }
 console.log(NumberToString(200))
