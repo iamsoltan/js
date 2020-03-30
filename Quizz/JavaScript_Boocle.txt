@@ -2,14 +2,14 @@ LES QUESTIONS  LES REPONSES
 1	A						
 2	A,B						
 3	C						
-4	B						
+4	D						
 5	A						
 6	C						
 7	C						
 8	B						
-9	A						
+9	B						
 10	B						
-11	B						
+11	E						
 12	C						
 13	B,C						
 14	A,B,D						
