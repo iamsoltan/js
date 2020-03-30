@@ -1,0 +1,26 @@
+LES QUESTIONS  LES REPONSES
+1	A						
+2	A,B						
+3	C						
+4	B						
+5	A						
+6	C						
+7	C						
+8	B						
+9	A						
+10	B						
+11	B						
+12	C						
+13	B,C						
+14	A,B,D						
+15	A,B,C						
+16	A						
+17	NONE FROM LISTED ANSWERS				CORRECT OUTPUT :		Nessrine Manel Marwa Achref 
+18	B,C						
+19	B						
+20	B						
+21	A						
+22	D						
+23	A						
+24	C						
+25	C						
