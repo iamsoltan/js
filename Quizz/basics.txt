@@ -1,0 +1,26 @@
+les questions	les reponses
+1	A
+2	A
+3	A
+4	B
+5	B
+6	D
+7	C
+8	B
+9	A
+10	E
+11	E
+12	E
+13	B
+14	D
+15	C
+16	E
+17	A
+18	A
+19	C
+20	B
+21	A
+22	D
+23	A
+24	C
+25	E
